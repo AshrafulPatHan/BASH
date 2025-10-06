@@ -4,5 +4,5 @@ name="bahador"
 
 echo "Good Night $name"
 sleep 1
-echo "TaTa $name "
+echo "nice to meet you $name "
 
