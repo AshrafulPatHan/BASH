@@ -2,7 +2,7 @@
 
 echo "Hi"
 
-sleep 3
+sleep 2
 
 echo "Hello how are you"
 
