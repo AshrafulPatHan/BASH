@@ -1,5 +1,6 @@
 #!/bin/bash
 
+echo "Write your commit"
 read commit
 
 git add .
