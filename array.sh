@@ -3,5 +3,5 @@
 # array example
 _Array=("apple" 2 "banana")
 
-echo ${_Array[1]}
+echo ${_Array[0]}
 
