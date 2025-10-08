@@ -1,6 +1,3 @@
-
-<xaiArtifact artifact_id="b66c8d9a-37c5-44ef-82b7-d5dfc27a5432" artifact_version_id="780c5d1b-5ebd-4606-9d19-ef099cb14d4e" title="README.md" contentType="text/markdown">
-
 # Bash Scripting Learning Guide
 
 This repository is dedicated to learning the Bash programming language for the Linux terminal. Bash (Bourne Again Shell) is a powerful scripting tool used for automating tasks, managing systems, and interacting with the Linux environment.
